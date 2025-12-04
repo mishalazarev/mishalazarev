@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! My name is Mikhail Lazarev, and I'm a beginner Android developer.
+
+## 🔧 Skills
+- Programming Languages https://camo.githubusercontent.com/72accbfb7308ea12d829abf77a48f4b4f82d910084c2c01b6fe9eb715f3ddf4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3746353246463f7374796c653d666c61742d737175617265266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465
