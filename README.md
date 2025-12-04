@@ -31,3 +31,5 @@ I'm delving into modern Android development practices and experimenting.
 ## 💬 Let's chat
 - Email: [mishalazarev1998@gmail.com](mishalazarev1998@gmail.com)
 - Telegram: [misha_lazarev](https://t.me/misha_lazarev)
+
+**Thanks for stopping by! Let’s build something amazing together! 🫶**
