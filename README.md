@@ -24,3 +24,10 @@ Welcome to my GitHub profile! My name is Mikhail Lazarev, and I'm a beginner And
 - Testing & CI/CD: ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square)
 - Libraries: ![Hilt](https://img.shields.io/badge/Hilt-DI-green?style=for-the-badge) ![Room DataBase](https://img.shields.io/badge/Room-Database-blue?style=for-the-badge)
 - Other Skills: ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-25A162?style=flat-square), ![SOLID](https://img.shields.io/badge/SOLID-Principles-purple?style=for-the-badge), ![MVVM](https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge), etc.
+
+## 🌱 What I'm working on now
+I'm delving into modern Android development practices and experimenting.
+
+## 💬 Let's chat
+- Email: [mishalazarev1998@gmail.com](mishalazarev1998@gmail.com)
+- Telegram: [misha_lazarev](https://t.me/misha_lazarev)
